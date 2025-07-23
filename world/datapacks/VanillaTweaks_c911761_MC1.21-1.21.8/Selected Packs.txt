@@ -1,0 +1,5 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.21
+Packs:
+	straight to shapeless
+	rotten flesh to leather
