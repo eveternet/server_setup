@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"description": "Removes vanilla recipes and advancements using Filters.",
+		"pack_format": 10
+	},
+	"filter": { "block": [{
+		"namespace":  "minecraft",
+		"path": "recipes/ender_eye.json"
+	},{
+		"namespace": "minecraft",
+		"path": "advancements/recipes/recipes/ender_eye.json"
+	}]}
+}
